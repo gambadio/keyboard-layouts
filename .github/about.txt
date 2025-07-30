@@ -1,0 +1,1 @@
+Keyboard Layout Manager provides a simple graphical tool to manage keyboard layouts on Windows systems. Add or remove input languages easily through its user-friendly GUI—ideal for multilingual users or system administrators needing quick layout changes.
